@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "655ac4648759d1c6e13baf4a"
+  },
+  "encuentro_id": "id_del_encuentro1",
+  "resultado_equipo_local": 2,
+  "resultado_equipo_visitante:": 1
+},
+{
+  "_id": {
+    "$oid": "655ac4648759d1c6e13baf4b"
+  },
+  "encuentro_id": "id_del_encuentro2",
+  "resultado_equipo_local": 3,
+  "resultado_equipo_visitante": 0
+},
+{
+  "_id": {
+    "$oid": "655ac46f8759d1c6e13baf4c"
+  },
+  "encuentro_id": "id_del_encuentro3",
+  "resultado_equipo_local": 1,
+  "resultado_equipo_visitante:": 1
+},
+{
+  "_id": {
+    "$oid": "655ac4778759d1c6e13baf4d"
+  },
+  "encuentro_id": "id_del_encuentro4",
+  "resultado_equipo_local": 3,
+  "resultado_equipo_visitante": 3
+},
+{
+  "_id": {
+    "$oid": "655ac55e8759d1c6e13baf57"
+  },
+  "encuentro_id": "id_del_encuentro5",
+  "resultado_equipo_local": 2,
+  "resultado_equipo_visitante:": 2
+},
+{
+  "_id": {
+    "$oid": "655ac5668759d1c6e13baf58"
+  },
+  "encuentro_id": "id_del_encuentro6",
+  "resultado_equipo_local": 0,
+  "resultado_equipo_visitante": 0
+}]

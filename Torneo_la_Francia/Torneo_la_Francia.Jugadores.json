@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "655ac1bb8759d1c6e13baf33"
+  },
+  "NOMBRE": "Pedro",
+  "EDAD": 20,
+  "EQUIPO": "LA FRANCIA FC"
+},
+{
+  "_id": {
+    "$oid": "655ac1bb8759d1c6e13baf34"
+  },
+  "NOMBRE": "Juan",
+  "EDAD": 24,
+  "EQUIPO": "PRIMAVERA FC"
+},
+{
+  "_id": {
+    "$oid": "655ac1bb8759d1c6e13baf35"
+  },
+  "NOMBRE": "Felipe",
+  "EDAD": 25,
+  "EQUIPO": "LA FRANCIA FC"
+},
+{
+  "_id": {
+    "$oid": "655ac1bb8759d1c6e13baf36"
+  },
+  "NOMBRE": "Duvan",
+  "EDAD": 21,
+  "EQUIPO": "PRIMAVERA FC"
+},
+{
+  "_id": {
+    "$oid": "655ac1bb8759d1c6e13baf37"
+  },
+  "NOMBRE": "Luis",
+  "EDAD": 22,
+  "EQUIPO": "PRIMAVERA FC"
+},
+{
+  "_id": {
+    "$oid": "655ac1bb8759d1c6e13baf38"
+  },
+  "NOMBRE": "Daniel",
+  "EDAD": 23,
+  "EQUIPO": "LA FRANCIA FC"
+},
+{
+  "_id": {
+    "$oid": "655ac1bb8759d1c6e13baf39"
+  },
+  "NOMBRE": "Alex",
+  "EDAD": 22,
+  "EQUIPO": "PRIMAVERA FC"
+},
+{
+  "_id": {
+    "$oid": "655ac1bb8759d1c6e13baf3a"
+  },
+  "NOMBRE": "Alberto",
+  "EDAD": 20,
+  "EQUIPO": "LA FRANCIA FC"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "655ac6da8759d1c6e13baf60"
+  },
+  "EQUIPO": "EquipoA",
+  "PUNTOS": 5,
+  "GOLES A FAVOR": 5,
+  "GOLES EN CONTRA": 4,
+  "DIFERENCIA DE GOL": 1
+},
+{
+  "_id": {
+    "$oid": "655ac6da8759d1c6e13baf61"
+  },
+  "EQUIPO": "EquipoC",
+  "PUNTOS": 4,
+  "GOLES A FAVOR": 4,
+  "GOLES EN CONTRA": 1,
+  "DIFERENCIA DE GOL": 3
+},
+{
+  "_id": {
+    "$oid": "655ac6da8759d1c6e13baf62"
+  },
+  "EQUIPO": "EquipoB",
+  "PUNTOS": 2,
+  "GOLES A FAVOR": 4,
+  "GOLES EN CONTRA": 5,
+  "DIFERENCIA DE GOL": -1
+},
+{
+  "_id": {
+    "$oid": "655ac6da8759d1c6e13baf63"
+  },
+  "EQUIPO": "EquipoD",
+  "PUNTOS": 2,
+  "GOLES A FAVOR": 5,
+  "GOLES EN CONTRA": 8,
+  "DIFERENCIA DE GOL": -3
+}]

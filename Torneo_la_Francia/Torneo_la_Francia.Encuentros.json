@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "655ac2538759d1c6e13baf3d"
+  },
+  "equipo_local": "EquipoA",
+  "equipo_visitante": "EquipoB",
+  "fecha": "2023-01-01T14:30:00Z",
+  "lugar": "Campo1",
+  "arbitro_id": "id_del_arbitro_asignado"
+},
+{
+  "_id": {
+    "$oid": "655ac2538759d1c6e13baf3e"
+  },
+  "equipo_local": "EquipoC",
+  "equipo_visitante": "EquipoD",
+  "fecha": "2023-01-02T16:00:00Z",
+  "lugar": "Campo2",
+  "arbitro_id": "id_del_arbitro_asignado"
+},
+{
+  "_id": {
+    "$oid": "655ac2818759d1c6e13baf3f"
+  },
+  "equipo_local": "EquipoA",
+  "equipo_visitante": "EquipoC",
+  "fecha": "2023-01-03T14:30:00Z",
+  "lugar": "Campo1",
+  "arbitro_id": "id_del_arbitro_asignado"
+},
+{
+  "_id": {
+    "$oid": "655ac28b8759d1c6e13baf40"
+  },
+  "equipo_local": "EquipoB",
+  "equipo_visitante": "EquipoD",
+  "fecha": "2023-01-04T16:00:00Z",
+  "lugar": "Campo2",
+  "arbitro_id": "id_del_arbitro_asignado"
+},
+{
+  "_id": {
+    "$oid": "655ac4ff8759d1c6e13baf54"
+  },
+  "equipo_local": "EquipoA",
+  "equipo_visitante": "EquipoD",
+  "fecha": "2023-01-05T14:30:00Z",
+  "lugar": "Campo1",
+  "arbitro_id": "id_del_arbitro_asignado"
+},
+{
+  "_id": {
+    "$oid": "655ac5518759d1c6e13baf55"
+  },
+  "equipo_local": "EquipoB",
+  "equipo_visitante": "EquipoC",
+  "fecha": "2023-01-06T16:00:00Z",
+  "lugar": "Campo2",
+  "arbitro_id": "id_del_arbitro_asignado"
+}]

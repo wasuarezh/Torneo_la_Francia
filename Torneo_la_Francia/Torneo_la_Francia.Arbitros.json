@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "655ac2dd8759d1c6e13baf43"
+  },
+  "nombre": "Árbitro1",
+  "categoria": "Principal",
+  "experiencia": "5 años"
+},
+{
+  "_id": {
+    "$oid": "655ac2dd8759d1c6e13baf44"
+  },
+  "nombre": "Árbitro2",
+  "categoria": "Asistente",
+  "experiencia": "3 años"
+},
+{
+  "_id": {
+    "$oid": "655ac2ed8759d1c6e13baf45"
+  },
+  "nombre": "Árbitro3",
+  "categoria": "Principal",
+  "experiencia": "2 años"
+},
+{
+  "_id": {
+    "$oid": "655ac2f58759d1c6e13baf46"
+  },
+  "nombre": "Árbitro4",
+  "categoria": "Asistente",
+  "experiencia": "3 años"
+},
+{
+  "_id": {
+    "$oid": "655ac2ff8759d1c6e13baf47"
+  },
+  "nombre": "Árbitro5",
+  "categoria": "Principal",
+  "experiencia": "6 años"
+}]
